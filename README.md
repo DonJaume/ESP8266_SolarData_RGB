@@ -48,7 +48,7 @@ Una vez subido el *sketch* a nuestro ESP8266 y si todo ha ido bien, deberíamos 
 
 El color morado, significa que nuestro circuito a entrado en modo AP (*"Acces Point" o "Punto de Acceso"*), creando una red Wifi propia con el nombre AP_SolarData.
 
-####Condigurar nuestra red wifi y otras opciones.
+#### Condigurar nuestra red wifi y otras opciones.
 - Conectarse con una tablet, pc, teléfono o similar a la red wifi creada *AP_SolarData*, es una red abierta.
 - Abrir un navegador web, en caso de no redireccionarnos directamente, acceder a la dirección 192.168.4.1
 - En la siguiente pantalla, pulsar en *Configurar WIFI*.
@@ -74,7 +74,7 @@ El color morado, significa que nuestro circuito a entrado en modo AP (*"Acces Po
 ![](https://image.ibb.co/nMbBK7/IMG4.jpg)
 
 
-####Cambiar configuración.
+#### Cambiar configuración.
 Una vez nuestro ESP tiene los datos guardados y consigue entrar a nuestra wifi, éste no vuelve a ponerse en modo AP, solo se activa este modo si no es capaz de conectarse a nuestra wifi o si reiniciamos los datos.
 
 Para hacer un reinicio de datos para volver a entrar en modo configuración hay que:
