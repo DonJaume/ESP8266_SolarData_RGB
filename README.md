@@ -72,7 +72,7 @@ El color morado, significa que nuestro circuito a entrado en modo AP (*"Acces Po
 
 ![](https://image.ibb.co/e4O2Rn/IMG3.jpg) 
 ![](https://image.ibb.co/nMbBK7/IMG4.jpg)
-> *(Los colores de la imagen no reflejan la realidad)*
+
 
 ####Cambiar configuración.
 Una vez nuestro ESP tiene los datos guardados y consigue entrar a nuestra wifi, éste no vuelve a ponerse en modo AP, solo se activa este modo si no es capaz de conectarse a nuestra wifi o si reiniciamos los datos.
