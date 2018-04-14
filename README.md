@@ -14,8 +14,12 @@ Para el control y conexión a la red, se utiliza el módulo ESP8266, utilizado e
 
 ## Programación
 1. Instalar la última versión de [Arduino](https://www.arduino.cc/en/Main/Software).
-2. Instalar la librería del ESP8266
+2. Instalar la tarjeta del ESP8266.
 	- Abrir la aplicación de aplicación de Arduino e ir Preferencias desde el menú Archivo.
-	- Introducir *http://arduino.esp8266.com/stable/package_esp8266com_index.json* en "Gestor de URLs Adicionales de Targetas" (puede introducir varias direcciones separandolas por comas ',').
-	- Abrir *Gestionar Librerias* desde el menú Programa/Incluir Librería.
+	- Introducir *http://arduino.esp8266.com/stable/package_esp8266com_index.json* en "Gestor de URLs Adicionales de Tarjetas" (puede introducir varias direcciones separandolas por comas ',').
+	- Abrir *Gestor de tarjetas* desde el menú Herramientas/Placa. Buscamos por ESP8266 e instalamos.
+	- Podéis encontrar mas información en su [página](https://github.com/esp8266/Arduino) de HitHub.
+3. Instalación de la librería que controla los LED's.
+	- Desde el menú Programa/Incluir Librería, abrir *Gestionar Librerías*. Buscar e instalar la librería llamada **Adafruit NeoPixel** by Adafruit.
+
 
