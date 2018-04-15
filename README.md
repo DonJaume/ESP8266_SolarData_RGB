@@ -8,7 +8,9 @@ Para el control y conexión a la red wifi, se utiliza el módulo ESP8266, utiliz
 
 ![](https://image.ibb.co/bzdOHS/Secuencia.gif)
 ![](https://image.ibb.co/dshHcS/secuencia_reinicio.gif)
-![](https://image.ibb.co/dNiyZ7/Secuencia_config.gif)
+[![](https://image.ibb.co/dNiyZ7/Secuencia_config.gif)](https://image.ibb.co/fD1o1n/secuencia_config2.gif)
+
+
 
 ## Material
 
