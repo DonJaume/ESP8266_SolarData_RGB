@@ -4,7 +4,7 @@ Se trata de un sencillo circuito que nos muestra en una tira LED WS2812B, por me
 
 Para el control y conexión a la red wifi, se utiliza el módulo ESP8266, utilizado en este circuito el primer modelo ESP-01, que es el mas simple y pequeño de la serie pero suficiente para este proyecto.
 
-##Material
+## Material
 
 - Modulo ESP8266 ESP-01.
 - 8 LEDs RGB WS2812, tipo neopixel o similares.
