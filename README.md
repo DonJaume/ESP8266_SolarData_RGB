@@ -1,6 +1,6 @@
 # ESP8266 SolarData-RGB
 
-![](https://image.ibb.co/ei1Agn/IMG0.jpg)
+![](https://image.ibb.co/cVrU7S/IMG0.jpg)
 
 Se trata de un sencillo circuito que nos muestra en una tira LED WS2812B, por medio de colores, el estado de las bandas HF de radioaficionados, obteniendo dicha información desde la página web hamqsl.com.
 
