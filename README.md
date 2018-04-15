@@ -36,7 +36,7 @@ Para el control y conexión a la red wifi, se utiliza el módulo ESP8266, utiliz
 1. Instalar la última versión de [Arduino](https://www.arduino.cc/en/Main/Software).
 2. Instalar la tarjeta del ESP8266.
 	- Abrir la aplicación de aplicación de Arduino e ir a Preferencias desde el menú Archivo.
-	- Introducir <code>http://arduino.esp8266.com/stable/package_esp8266com_index.json</code> en "Gestor de URLs Adicionales de Tarjetas" (puede introducir varias direcciones separandolas por comas ',').
+	- Introducir ```http://arduino.esp8266.com/stable/package_esp8266com_index.json``` en "Gestor de URLs Adicionales de Tarjetas" (puede introducir varias direcciones separandolas por comas ',').
 	- Abrir *Gestor de tarjetas* desde el menú Herramientas/Placa. Buscamos por ESP8266 e instalamos.
 	- Podéis encontrar mas información u otros modos de instalación en su [página de GitHub.](https://github.com/esp8266/Arduino) 
 3. Instalación de la librería que controla los LED's.
