@@ -1,5 +1,7 @@
 # ESP8266 SolarData-RGB
 
+![](https://image.ibb.co/ei1Agn/IMG0.jpg)
+
 Se trata de un sencillo circuito que nos muestra en una tira LED WS2812B, por medio de colores, el estado de las bandas HF de radioaficionados, obteniendo dicha información desde la página web hamqsl.com.
 
 Para el control y conexión a la red wifi, se utiliza el módulo ESP8266, utilizado en este circuito el primer modelo ESP-01, que es el mas simple y pequeño de la serie pero suficiente para este proyecto.
@@ -14,11 +16,11 @@ Para el control y conexión a la red wifi, se utiliza el módulo ESP8266, utiliz
 - Fuente de alimentación de 3.3v para su instalación definitiva.
 
 ## Circuito
-...
+![](https://image.ibb.co/eKOgMn/circuito.jpg)
 
-...
 
-...
+![](https://image.ibb.co/ck4tZ7/LED_RGB_f.jpg)
+![](https://image.ibb.co/i8Y97S/LED_RGB_t.jpg)
 
 
 ## Programación
